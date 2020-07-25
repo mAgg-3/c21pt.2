@@ -1,2 +1,2 @@
-# c21pt.2
-passing the arguments to the bounce function
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
